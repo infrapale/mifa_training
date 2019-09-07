@@ -10,20 +10,11 @@ leipäteksti
    1. esittely
 1. lopetus
 
-Three or more...
+## Horizontal Rule
 
----
+-- 
 
-Hyphens
-
-***
-
-Asterisks
-
-___
-
-Underscores
-
+## Links
 [I'm an inline-style link](https://www.google.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
@@ -34,6 +25,7 @@ Underscores
 
 [You can use numbers for reference-style link definitions][1]
 
+## Table
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -41,7 +33,7 @@ Underscores
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-
+## Images
 Here's our logo (hover to see the title text):
 
 Inline-style: 

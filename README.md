@@ -1,4 +1,4 @@
-# mifa_training
+# Mikrofan Git 
 kerhoiltaa varten
 leipäteksti
 ## otsikko 2
@@ -7,7 +7,7 @@ leipäteksti
 * xyz
 1. aloitus
 1. käsittely
-   1. esittely
+  1. esittely
 1. lopetus
 
 ## Horizontal Rule
